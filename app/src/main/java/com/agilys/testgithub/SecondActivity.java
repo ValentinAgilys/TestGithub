@@ -9,6 +9,7 @@ public class SecondActivity {
     // branch 1
     // comment 4
     // Master
+        // Master
     }
 
 }
