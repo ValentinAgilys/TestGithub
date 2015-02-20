@@ -6,6 +6,8 @@ public class SecondActivity {
     // comment 2
     // comment 1
     // comment 3
+    // branch 1
+    // comment 4
     // Master
     }
 
